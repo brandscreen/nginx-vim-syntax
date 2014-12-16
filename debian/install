@@ -1,0 +1,4 @@
+nginx-vim-syntax.yaml usr/share/vim/registry
+ftdetect/nginx.vim usr/share/vim/addons/ftdetect
+indent/nginx.vim usr/share/vim/addons/indent
+syntax/nginx.vim usr/share/vim/addons/syntax
